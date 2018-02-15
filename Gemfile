@@ -39,6 +39,7 @@ group :development, :test do
   gem 'byebug'
   gem 'capybara'
   gem 'cucumber-rails', :require => false
+  gem 'rspec-rails', '~> 3.5'
 end
 
 group :development do
